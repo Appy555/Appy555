@@ -17,7 +17,7 @@
 - Recommendation System
 
 ## 📫 Connect with me
-- LinkedIn: (your link)
+- LinkedIn: www.linkedin.com/in/apeksha-s-86813a171
 
 <!--
 **Appy555/Appy555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
