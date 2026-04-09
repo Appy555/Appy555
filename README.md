@@ -1,4 +1,23 @@
 ## Hi there 👋
+# Hi, I'm Apeksha 👋
+
+🚀 Aspiring AI/ML Engineer  
+💻 Skilled in Python, SQL, and Data Analysis  
+🤖 Currently learning Machine Learning  
+
+## 🔧 Skills
+- Python (Pandas, NumPy)
+- Machine Learning
+- SQL
+- Data Visualization
+
+## 📌 Projects
+- House Price Prediction
+- Spam Email Classifier
+- Recommendation System
+
+## 📫 Connect with me
+- LinkedIn: (your link)
 
 <!--
 **Appy555/Appy555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
