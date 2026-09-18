@@ -1,9 +1,9 @@
 ## Hi there 👋
 # Hi, I'm Apeksha 👋
 
-🚀 Aspiring AI/ML Engineer  
+🚀 AI/ML Engineer  
 💻 Skilled in Python, SQL, and Data Analysis  
-🤖 Currently learning Machine Learning  
+🤖 Machine Learning Deep learning Generative AI
 
 ## 🔧 Skills
 - Python (Pandas, NumPy)
